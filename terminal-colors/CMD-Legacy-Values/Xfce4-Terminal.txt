@@ -1,0 +1,5 @@
+[Configuration]
+ColorCursor=#c5c5c8c8c6c6
+ColorForeground=#c5c5c8c8c6c6
+ColorBackground=#1d1d1f1f2121
+ColorPalette=#000000000000;#000000008080;#000080800000;#000080808080;#808000000000;#808000008080;#808080800000;#c0c0c0c0c0c0;#808080808080;#00000000ffff;#0000ffff0000;#0000ffffffff;#ffff00000000;#ffff0000ffff;#ffffffff0000;#ffffffffffff

@@ -1,0 +1,4 @@
+"background-color": "#000000",
+"foreground-color": "#4e9a06",
+"cursor-color":     "#4e9a06",
+"color-palette-overrides": ["#000000","#990099","#4e9a06","#ffa500","#3465a4","#75507b","#06989a","#ffffff","#555753","#8e388e","#699000","#ffa500","#729fcf","#ad7fa8","#34e2e2","#ffffff"]
