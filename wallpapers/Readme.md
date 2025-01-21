@@ -12,25 +12,49 @@
 
 > 其中，      </br>
 > 
-> [`MXLinux`](https://github.com/jidro/wallpapers/tree/master/MXLinux "MXLinux")、[`PhoenixOS`](https://github.com/jidro/collect/tree/main/wallpapers/phoenix)、[`vekete`](https://github.com/jidro/wallpapers/tree/master/vekete "vekete")、[`UbuntuKylin`](https://github.com/jidro/collect/tree/main/wallpapers/ukylin) …… - 此些壁纸图片分别提取自各自的系统，    </br>
+> `arch`、`arco`、`cutefish`、`elementary`、[`mx`](https://github.com/jidro/wallpapers/tree/master/MXLinux "MXLinux")、[`phoenix`](https://github.com/jidro/collect/tree/main/wallpapers/phoenix) …… - 这些壁纸图片均取自相应系统，    </br>
 > 
 > > 系统分别为：    </br>
 > > 
-> > - `MX Linux 21`、    </br>
+> > - [`Arch Linux`](https://archlinux.org/)、    </br>
+> > 
+> > - [`Arco Linux`](https://www.arcolinux.info/)、    </br>
+> > 
+> > - [`Cutefish OS`](https://www.cutefishos.com/)、    </br>
+> > 
+> > - [`elementary OS`](https://elementary.io/)、    </br>
+> > 
+> > - [`MX Linux`](https://mxlinux.org/)、    </br>
 > > 
 > > - `PhoenixOS`（凤凰系统）、    </br>
+> 
+> `budgie`、`gnome`、`mate`、`plasma-workspace`、[`xfce`](https://github.com/jidro/wallpapers/tree/master/xfce "xfce")、`ukui` …… - 这些壁纸图片均取自相应桌面环境，    </br>
+> 
+> > 桌面环境分别为：    </br>
 > > 
-> > - `vekete`系统（微器人）、    </br>
+> > - [`Budgie DE`](https://github.com/BuddiesOfBudgie/budgie-desktop)、    </br>
 > > 
-> > - `Ubuntukylin`（优麒麟） ，   </br>
+> > - [`Gnome DE`](https://gitlab.gnome.org/GNOME)、    </br>
+> > 
+> > - [`Mate DE`](https://mate-desktop.org/)、    </br>
+> > 
+> > - [`KDE Plasma DE`](https://kde.org/plasma-desktop/)、    </br>
+> > 
+> > - [`UKUI DE`](https://www.ukui.org/)、    </br>
+> > 
+> > - [`XFCE DE`](https://www.xfce.org/)、    </br>
 > 
-> [`xfce`](https://github.com/jidro/wallpapers/tree/master/xfce "xfce") - 该壁纸图片提取自`xfce`桌面环境自带桌面壁纸，    </br>
+> `sway` …… - 这些壁纸图片均取自相应窗口管理器，
 > 
-> [`sway`](https://github.com/jidro/wallpapers/tree/master/sway "sway") - 该壁纸图片提取自`sway`窗口管理器自带桌面壁纸，     </br>
+> > 窗口管理器分别为：
+> > 
+> > - [`sway WM`](https://swaywm.org/)、    </br>
 > 
-> [`Xfce-beautify-wallpapers`](https://github.com/jidro/collect/tree/main/wallpapers/xfce-beautify) - 该壁纸图片来自于[`B`站【美化教程】将你的 `xfce` 美化的更好看](https://www.bilibili.com/video/BV1gS4y1g7PM/)视频简介，    </br>
+> [`xfce-beautify`](https://github.com/jidro/collect/tree/main/wallpapers/xfce-beautify) - 该壁纸图片源自[`B`站【美化教程】将你的 `xfce` 美化的更好看](https://www.bilibili.com/video/BV1gS4y1g7PM/)的视频简介，    </br>
 > 
-> [`Save`](https://github.com/jidro/wallpapers/tree/master/Save "Save") - 该壁纸图片来自于各壁纸网站。    </br>
+> `nwg-shell` - [`nwg-shell`](https://github.com/nwg-piotr/nwg-shell)项目的壁纸，部分壁纸采用了[`nwg-shell`](https://nwg-piotr.github.io/nwg-shell)原始标志的衍生版本作为设计元素。
+> 
+> [`saves`](https://github.com/jidro/wallpapers/tree/master/Save "Save") - 该壁纸图片源自各壁纸网站。    </br>
 
 ------
 
@@ -49,21 +73,45 @@ The wallpapers in this warehouse are mostly extracted from each distribution.   
 
 > Among them,      </br>
 > 
-> [`MXLinux`](https://github.com/jidro/wallpapers/tree/master/MXLinux "MXLinux") - This wallpaper image is extracted from `MX Linux 21`,      </br> 
+> `arch`、`arco`、`cutefish`、`elementary`、[`mx`](https://github.com/jidro/wallpapers/tree/master/MXLinux "MXLinux")、[`phoenix`](https://github.com/jidro/collect/tree/main/wallpapers/phoenix) …… - These wallpaper images are extracted from their respective systems.    </br>
 > 
-> [`PhoenixOS`](https://github.com/jidro/wallpapers/tree/master/PhoenixOS "PhoenixOS") - The wallpaper image is extracted from `Phoenix OS` (Phoenix system),      </br>  
+> > The systems are:    </br>  
+> > 
+> > - [`Arch Linux`](https://archlinux.org/)、      </br>
+> > 
+> > - [`Arco Linux`](https://www.arcolinux.info/)、      </br>
+> > 
+> > - [`Cutefish OS`](https://www.cutefishos.com/)、      </br>
+> > 
+> > - [`elementary OS`](https://elementary.io/)、      </br>
+> > 
+> > - [`MX Linux`](https://mxlinux.org/)、     </br> 
+> > 
+> > - `PhoenixOS`（Phoenix System）、      </br>
 > 
-> [`vekete`](https://github.com/jidro/wallpapers/tree/master/vekete "vekete") - The wallpaper image is extracted from the `vekete` system (WeChat man),      </br>  
+> `budgie`、`gnome`、`mate`、`plasma-workspace`、[`xfce`](https://github.com/jidro/wallpapers/tree/master/xfce "xfce")、`ukui` …… - These wallpaper images are all taken from the corresponding desktop environment.        </br>
 > 
-> [`ubuntukylin`](https://github.com/jidro/wallpapers/tree/master/ubuntukylin "ubuntukylin") - This wallpaper image is extracted from `Ubuntu kylin`,      </br>  
+> > - [`Budgie DE`](https://github.com/BuddiesOfBudgie/budgie-desktop)、      </br>
+> > 
+> > - [`Gnome DE`](https://gitlab.gnome.org/GNOME)、      </br>
+> > 
+> > - [`Mate DE`](https://mate-desktop.org/)、      </br>
+> > 
+> > - [`KDE Plasma DE`](https://kde.org/plasma-desktop/)、      </br>
+> > 
+> > - [`UKUI DE`](https://www.ukui.org/)、      </br>
+> > 
+> > - [`XFCE DE`](https://www.xfce.org/)、      </br>
 > 
-> [`xfce`](https://github.com/jidro/wallpapers/tree/master/xfce "xfce") - This wallpaper image is extracted from the desktop wallpaper of the `xfce` desktop environment,      </br>  
+> `sway` …… - These wallpaper images are extracted from their respective window managers.        </br>
 > 
-> [`sway`](https://github.com/jidro/wallpapers/tree/master/sway "sway") - This wallpaper image is taken from the desktop wallpaper that comes with 'sway' Window Manager,    </br>
+> > - [`sway WM`](https://swaywm.org/)、      </br>
 > 
-> [`Xfce-beautify-wallpapers`](https://github.com/jidro/wallpapers/tree/master/Xfce-beautify-wallpapers "Xfce-beautify-wallpapers") - This wallpaper picture comes from the video introduction of [`B `station 【beautification tutorial】 beautifying your ` xfce` better](https://www.bilibili.com/video/BV1gS4y1g7PM/),        </br>
+> [`xfce-beautify`](https://github.com/jidro/collect/tree/main/wallpapers/xfce-beautify) - This wallpaper image is from [Bilibili's "Beautification Tutorial" to beautify your xfce for a better look](https://www.bilibili.com/video/BV1gS4y1g7PM/).        </br> 
 > 
-> [`Save`](https://github.com/jidro/wallpapers/tree/master/Save "Save") - This wallpaper image is from various wallpaper websites.      </br>
+> `nwg-shell` -The wallpaper of the [`nwg-shell`](https://github.com/nwg-piotr/nwg-shell) project incorporates derivative versions of the original [`nwg-shell`](https://nwg-piotr.github.io/nwg-shell) logo as design elements.    </br>
+> 
+> [`saves`](https://github.com/jidro/wallpapers/tree/master/Save "Save") - This wallpaper image is from various wallpaper websites.    </br>
 
 ------
 
