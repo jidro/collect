@@ -21,69 +21,65 @@
 ##### 安装`fcitx`主题：
 
 - ① 克隆该仓库到本地（或下载`fcitx`主题）
-  
+
 - ② 将已下载好的主题解压后放置在如下文件夹内
   
   ```shell
   /usr/share/fcitx/skin/  #全局配置
   ~/.config/fcitx/skin/  #单用户配置
   ```
-  
+
 - ③ 打开`fcitx`配置 → 附加组件 → 经典用户界面 → 主题 → 选择所安装的主题。
-  
+
 - ④ 即可享受所安装的主题。
-  
 
 ##### 安装`fcitx5`主题：
 
 - ① 克隆该仓库到本地（或下载`fcitx5`主题）
-  
+
 - ② 将已下载好的主题解压后放置在如下文件夹内：
   
   ```shell
   ~/.local/share/fcitx5/themes/ 
   ```
-  
+
 - ③ 打开`fcitx5`配置 → 附加组件 → 经典用户界面 → 主题 → 选择所安装的主题。
-  
+
 - ④ 即可享受所安装的主题。
-  
 
 ---
 
 #### 安装图标主题：
 
 - ① 克隆该仓库到本地（或下载图标主题）
-  
+
 - ② 将已下载好的主题解压后放置在如下文件夹内：
   
   ```shell
   /user/share/icons  #全局配置
   ~/.local/share/icons  #单用户配置
   ```
-  
+
 - ③ 打开系统设置 → 图标主题 → 选择所安装的图标主题。
-  
+
 - ④ 即可享受所安装的主题。
-  
 
 ---
 
 #### 安装鼠标主题：
 
 - ① 克隆该仓库到本地（或下载鼠标主题）
-  
+
 - ② 将已下载好的主题解压后放置在如下文件夹内：
   
   ```shell
   /user/share/icons  #全局配置
   ~/.local/share/icons  #单用户配置
   ```
-  
+
 - ③ 打开系统设置 → 鼠标光标 → 选择所安装的图标主题。
-  
+
 - ④ 即可享受所安装的主题。
-  
 
 ---
 
@@ -92,6 +88,10 @@
 由于本人是`Linux`小白，发现并非所有主题都可以使用，欢迎各位大神修改优化。 </br>
 
 - [`icon-themes`](https://github.com/jidro/favorites-themes/tree/master/icon-themes "icon-themes") 中[`deepin-blossom-themes`](https://github.com/jidro/favorites-themes/tree/master/icon-themes/deepin-blossom-themes "deepin-blossom-themes") 暂时不能直接使用，不过可以从软件源内直接安装。 </br>
+
+> **注**：
+> 
+> 已移除部分可公开获取的资源，如需使用请通过官方直接下载。
 
 ---
 
@@ -185,7 +185,15 @@ This warehouse is a collection of personal favorite fcitx themes, icon themes an
 
 Since I am a `Linux` Xiaobai, I found that not all themes can be used. You are welcome to modify and optimize. </br>
 
-- [` deep bloom themes `](https://github.com/jidro/favorites-themes/tree/master/icon-themes/deepin-blossom-themes "deepin-blossom-themes") in [` icon themes `](https://github.com/jidro/favorites-themes/tree/master/icon-themes/deepin-blossom-themes "deepin-blossom-themes") cannot be used directly at the moment, but can be installed directly from the software source. </br>
+- [` deep bloom themes `](https://github.com/jidro/favorites-themes/tree/master/icon-themes/deepin-blossom-themes "deepin-blossom-themes") in [` icon themes `](https://github.com/jidro/favorites-themes/tree/master/icon-themes/deepin-blossom-themes "deepin-blossom-themes") cannot be used directly at the moment, but can be installed directly from the software source.  </br>
+
+> **Note**:
+> 
+> Some publicly available resources have been removed. 
+> 
+> If you need to use them, 
+> 
+> please download them directly from the official source.
 
 ---
 
