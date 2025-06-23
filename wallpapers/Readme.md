@@ -56,6 +56,8 @@
 > 
 > [`saves`](https://github.com/jidro/wallpapers/tree/master/Save "Save") - 该壁纸图片源自各壁纸网站。    </br>
 > 
+> `winweb` - ‌此壁纸为`Windows`系统内置，存储于`C`盘`Windows\Web`目录。     </br>
+> 
 > > **注**：
 > > 
 > > 已移除部分可公开获取的壁纸资源，如需使用请通过官方直接下载。
@@ -116,6 +118,8 @@ The wallpapers in this warehouse are mostly extracted from each distribution.   
 > `nwg-shell` -The wallpaper of the [`nwg-shell`](https://github.com/nwg-piotr/nwg-shell) project incorporates derivative versions of the original [`nwg-shell`](https://nwg-piotr.github.io/nwg-shell) logo as design elements.    </br>
 > 
 > [`saves`](https://github.com/jidro/wallpapers/tree/master/Save "Save") - This wallpaper image is from various wallpaper websites.    </br>
+> 
+> `winweb` - This wallpaper is built-in to the `Windows` system and stored in the `Windows\Web` directory on the `C` drive.    </br>
 > 
 > > **Note**: 
 > > 
